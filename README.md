@@ -82,7 +82,7 @@ A matrix that was needed in the final formula.
    In order to move the (x_p, y_p) to the unit square I subtracted (x1, y1).
 Then I applyed the final formula in order to find the pixel.
 
-__-> f(x,y) = [1 x x^2 x^3] * A * [1; y; y^2; y^3]
+__-> f(x,y) = [1 x x^2 x^3] * A * [1; y; y^2; y^3]__
 
    In order for the matrix to be a valid image I used the uint8() function.
 	
