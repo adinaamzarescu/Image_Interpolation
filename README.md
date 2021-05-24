@@ -71,6 +71,7 @@ them in order to find the 3 intermediate matrices. Those 3 matrices were then us
 to create a bigger matrix (I3).
 
 I3:
+
 |f(0,0)  f(0,1)  Iy(0,0)  Iy(0,1) |
 |f(1,0)  f(1,1)  Iy(1,0)  Iy(1,1) |
 |Ix(0,0) Ix(0,1) Ixy(0,0) Ixy(0,1)|
