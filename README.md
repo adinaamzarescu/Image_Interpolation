@@ -20,7 +20,7 @@ coordinates) of the initial matrix.
 	
 For the colour images I applied the function 3 times for every colour 
 - red
-- green
+- green 
 - blue 
 ____________________________________________________________________________________
 
